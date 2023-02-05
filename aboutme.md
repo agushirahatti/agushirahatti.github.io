@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-
+---
 **ಓಂ ಗಣೇಶಾಯ ನಮಃ**
 
 My name is Agastya Pandith Shirahatti. I have the following qualities:
