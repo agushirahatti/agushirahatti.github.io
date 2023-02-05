@@ -1,14 +1,16 @@
 ---
 layout: page
 title: About me
-* ಓಂ ಗಣೇಶಾಯ ನಮಃ * 
-I know how to play the Piano, the Guitar, the recorder, and the harmonica
+
+**ಓಂ ಗಣೇಶಾಯ ನಮಃ**
+
 My name is Agastya Pandith Shirahatti. I have the following qualities:
+* I know how to play the Piano, the Guitar, the recorder, and the harmonica
 * My favorite color is red
 * My favorite animal is a cheetah
 * I like to be around family
 * I am currently in Merryhill Elementry in 4th grade
-- My favorite hobbies are rubiks cubes and drawings
+* My favorite hobbies are rubiks cubes and drawings
 
 What else do you need?
 
