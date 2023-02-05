@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
----
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+* ಓಂ ಗಣೇಶಾಯ ನಮಃ * 
+I know how to play the Piano, the Guitar, the recorder, and the harmonica
+My name is Agastya Pandith Shirahatti. I have the following qualities:
+* My favorite color is red
+* My favorite animal is a cheetah
+* I like to be around family
+* I am currently in Merryhill Elementry in 4th grade
+- My favorite hobbies are rubiks cubes and drawings
 
 What else do you need?
 
